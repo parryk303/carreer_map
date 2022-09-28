@@ -1,0 +1,247 @@
+{
+  "GraduateEngineer": {
+    "en_wiki_cache": "test",
+    "en_wiki_sources": {
+      "Wikipedia (EN)": "test"
+    },
+    "image_cache": true,
+    "image_source": {
+      "Own Work": ""
+    }
+  },
+  "PSEngineerI": {
+    "en_wiki_cache": "test",
+    "en_wiki_sources": {
+      "Wikipedia (EN)": "test"
+    },
+    "image_cache": true,
+    "image_source": {
+      "Own Work": ""
+    }
+  },
+  "PSEngineerII": {
+    "en_wiki_cache": "test",
+    "en_wiki_sources": {
+    "Wikipedia (EN)": "test"
+    },
+    "image_cache": true,
+    "image_source": {
+      "Own Work": ""
+    }
+  },
+  "PSEngineerIII": {
+    "en_wiki_cache": "test",
+    "en_wiki_sources": {
+      "Wikipedia (EN)": "test"
+    },
+    "image_cache": true,
+    "image_source": {
+      "Own Work": ""
+    }
+  },
+  "PrincipalEngineer": {
+    "en_wiki_cache": "test",
+    "en_wiki_sources": {
+      "Wikipedia (EN)": "test"
+    },
+    "image_cache": true,
+    "image_source": {
+      "Own Work": ""
+    }
+  },
+  "SNYPRArchitect": {
+    "en_wiki_cache": "test",
+    "en_wiki_sources": {
+      "Wikipedia (EN)": "test"
+    },
+    "image_cache": true,
+    "image_source": {
+      "Own Work": ""
+    }
+  },
+  "PrincipalArchitect": {
+    "en_wiki_cache": "test",
+    "en_wiki_sources": {
+      "Wikipedia (EN)": "test"
+    },
+    "image_cache": true,
+    "image_source": {
+      "Own Work": ""
+    }
+  },
+  "SDM": {
+    "en_wiki_cache": "test",
+    "en_wiki_sources": {
+      "Wikipedia (EN)": "test"
+    },
+    "image_cache": true,
+    "image_source": {
+      "Own Work": ""
+    }
+  },
+  "ServiceDeliveryManager": {
+    "en_wiki_cache": "test",
+    "en_wiki_sources": {
+      "Wikipedia (DE)": "test"
+    },
+    "image_cache": true,
+    "image_source": {
+      "Own Work": ""
+    }
+  },
+  "SeniorArchitect": {
+    "en_wiki_cache": "test",
+    "en_wiki_sources": {
+      "Wikipedia (EN)": "test"
+    },
+    "image_cache": true,
+    "image_source": {
+      "Own Work": ""
+    }
+  },
+  "Engineering": {
+    "en_wiki_cache": "test",
+    "en_wiki_sources": {
+      "Wikipedia (EN)":
+        "test"
+    },
+    "image_cache": true,
+    "image_source": {
+      "Own Work": ""
+    }
+  },
+  "CyberFusion": {
+    "en_wiki_cache": "test",
+    "en_wiki_sources": {
+      "Wikipedia (EN)": "test"
+    },
+    "image_cache": true,
+    "image_source": {
+      "Own Work": ""
+    }
+  },
+  "SeniorEngineer": {
+    "en_wiki_cache": "test",
+    "en_wiki_sources": {
+      "Wikipedia (EN)": "test"
+    },
+    "image_cache": true,
+    "image_source": {
+      "Own Work": ""
+    }
+  },
+  "PrincipalCFConsultant": {
+    "en_wiki_cache": "test",
+    "en_wiki_sources": {
+      "Wikipedia (EN)": "test"
+    },
+    "image_cache": true,
+    "image_source": {
+      "Own Work": ""
+    }
+  },
+  "CFConsultant": {
+    "en_wiki_cache": "test",
+    "en_wiki_sources": {
+      "Wikipedia (EN)": "test"
+    },
+    "image_cache": true,
+    "image_source": {
+      "Own Work": ""
+    }
+  },
+  "SrCFConsultant": {
+    "en_wiki_cache": "test",
+    "en_wiki_sources": {
+      "Wikipedia (DE)": "test"
+    },
+    "image_cache": true,
+    "image_source": {
+      "Own Work": ""
+    }
+  },
+  "SeniorPrincipalSDM": {
+    "en_wiki_cache": "test",
+    "en_wiki_sources": {
+      "Wikipedia (EN)": "test"
+    },
+    "image_cache": true,
+    "image_source": {
+      "Own Work": ""
+    }
+  },
+  "ProgramManagement": {
+    "en_wiki_cache": "test",
+    "en_wiki_sources": {
+      "Wikipedia (EN)": "test"
+    },
+    "image_cache": true,
+    "image_source": {
+      "Own Work": ""
+    }
+  },
+  "SeniorSDM": {
+    "en_wiki_cache": "test",
+    "en_wiki_sources": {
+      "Wikipedia (EN)": "test"
+    },
+    "image_cache": true,
+    "image_source": {
+      "Own Work": ""
+    }
+  },
+  "PrincipalSDM": {
+    "en_wiki_cache": "test",
+    "en_wiki_sources": {
+      "Wikipedia (EN)": "test"
+    },
+    "image_cache": true,
+    "image_source": {
+      "Own Work": ""
+    }
+  },
+  "SrProgramManager": {
+    "en_wiki_cache": "test",
+    "en_wiki_sources": {
+      "Wikipedia (EN)":
+        "test"
+    },
+    "image_cache": true,
+    "image_source": {
+      "Own Work": ""
+    }
+  },
+  "PrincipalProgramManager": {
+    "en_wiki_cache":"test",
+    "en_wiki_sources": {
+      "Wikipedia (EN)":
+        "test"
+    },
+    "image_cache": true,
+    "image_source": {
+      "Own Work": ""
+    }
+  },
+  "ProgramManager": {
+    "en_wiki_cache": "test",
+    "en_wiki_sources": {
+      "Wikipedia (EN)":
+        "test"
+    },
+    "image_cache": true,
+    "image_source": {
+      "Own Work": ""
+    }
+  },
+  "SrPrincipalCFConsultant": {
+    "en_wiki_cache": "test",
+    "en_wiki_sources": {
+      "Wikipedia (EN)":
+        "test"
+    },
+    "image_cache": true,
+    "image_source": {
+      "Own Work": ""
+    }
+  }
+}

@@ -1,0 +1,485 @@
+{
+  "stations": {
+
+    "PrincipalArchitect": {
+      "id": 3947836158,
+      "name": "PrincipalArchitect",
+      "label": "Principal Architect",
+      "position": {
+        "lat": 52.5133502,
+        "lon": 13.395591
+      }
+    },
+    "SNYPRArchitect": {
+      "id": 3870475231,
+      "name": "SNYPRArchitect",
+      "label": "SNYPR Architect",
+      "position": {
+        "lat": 52.5117915,
+        "lon": 13.3850915
+      }
+    },
+    "SeniorArchitect": {
+      "id": 3957757604,
+      "name": "SeniorArchitect",
+      "label": "Senior Architect",
+      "position": {
+        "lat": 52.5017976,
+        "lon": 13.3430005
+      }
+    },
+    "Engineering": {
+      "id": 3957757603,
+      "name": "Engineering",
+      "label": "Engineering",
+      "position": {
+        "lat": 52.5028118,
+        "lon": 13.3266968
+      }
+    },
+    "ServiceDeliveryManager": {
+      "id": 5162689220,
+      "name": "ServiceDeliveryManager",
+      "label": "Service Delivery Manager",
+      "position": {
+        "lat": 52.4940847,
+        "lon": 13.3247547
+      }
+    },
+    "PrincipalEngineer": {
+      "id": 29123764,
+      "name": "PrincipalEngineer",
+      "label": "Principal Engineer",
+      "position": {
+        "lat": 52.5118853,
+        "lon": 13.3221613
+      }
+    },
+    "SeniorEngineer": {
+      "id": 31207787,
+      "name": "SeniorEngineer",
+      "label": "Senior Engineer",
+      "position": {
+        "lat": 52.5115148,
+        "lon": 13.3052393
+      }
+    },
+    "CyberFusion": {
+      "id": 4989868817,
+      "name": "CyberFusion",
+      "label": "CyberFusion",
+      "position": {
+        "lat": 52.5351709,
+        "lon": 13.1997742
+      }
+    },
+    "SDM": {
+      "id": 3872477458,
+      "name": "SDM",
+      "label": "SDM",
+      "position": {
+        "lat": 52.4434481,
+        "lon": 13.2413921
+      }
+    },
+    "PSEngineerIII": {
+      "id": 316021790,
+      "name": "PSEngineerIII",
+      "label": "PS Engineer III",
+      "position": {
+        "lat": 52.5100921,
+        "lon": 13.2831263
+      }
+    },
+    "PSEngineerII": {
+      "id": 29123754,
+      "name": "PSEngineerII",
+      "label": "PS Engineer II",
+      "position": {
+        "lat": 52.5099869,
+        "lon": 13.2722217
+      }
+    },
+    "PSEngineerI": {
+      "id": 29123761,
+      "name": "PSEngineerI",
+      "label": "PS Engineer I",
+      "position": {
+        "lat": 52.5162154,
+        "lon": 13.2592357
+      }
+    },
+    "GraduateEngineer": {
+      "id": 5134716875,
+      "name": "GraduateEngineer",
+      "label": "Graduate Engineer",
+      "position": {
+        "lat": 52.4961755,
+        "lon": 13.3431855
+      }
+    },
+    "SeniorSDM": {
+      "id": 3846471665,
+      "name": "SeniorSDM",
+      "label": "Senior\nService Delivery Manager",
+      "position": {
+        "lat": 52.4729787,
+        "lon": 13.4283545
+      }
+    },
+    "PrincipalSDM": {
+      "id": 31048718,
+      "name": "PrincipalSDM",
+      "label": "Principal\nService Delivery Manager",
+      "position": {
+        "lat": 52.4672622,
+        "lon": 13.4314659
+      }
+    },
+    "SeniorPrincipalSDM": {
+      "id": 5099979652,
+      "name": "SeniorPrincipalSDM",
+      "label": "Senior Principal\nService Delivery Manager",
+      "position": {
+        "lat": 52.4903665,
+        "lon": 13.3602198
+      }
+    },
+    "CFConsultant": {
+      "id": 29833469,
+      "name": "CFConsultant",
+      "label": "CyberFusion Consultant",
+      "position": {
+        "lat": 52.4885755,
+        "lon": 13.3405436
+      }
+    },
+    "SrCFConsultant": {
+      "id": 76474606,
+      "name": "SrCFConsultant",
+      "label": "Senior\nCyberFusion Consultant",
+      "position": {
+        "lat": 52.4895529,
+        "lon": 13.3501694
+      }
+    },
+    "PrincipalCFConsultant": {
+      "id": 5162689572,
+      "name": "PrincipalCFConsultant",
+      "label": "Principal\nCyberFusion Consultant",
+      "position": {
+        "lat": 52.4905442,
+        "lon": 13.3151361
+      }
+    },
+    "SrPrincipalCFConsultant": {
+      "id": 29046979,
+      "name": "SrPrincipalCFConsultant",
+      "label": "Senior Principal\nCyberFusion Consultant",
+      "position": {
+        "lat": 52.4873298,
+        "lon": 13.3310103
+      }
+    },
+    "ProgramManagement": {
+      "id": 174817813,
+      "name": "ProgramManagement",
+      "label": "Program Management",
+      "position": {
+        "lat": 52.4929715,
+        "lon": 13.3706891
+      }
+    },
+    "ProgramManager": {
+      "id": 29046970,
+      "name": "ProgramManager",
+      "label": "Program Manager",
+      "position": {
+        "lat": 52.5038223,
+        "lon": 13.3314365
+      }
+    },
+    "SrProgramManager": {
+      "id": 4440948591,
+      "name": "SrProgramManager",
+      "label": "Senior Program Manager",
+      "position": {
+        "lat": 52.5261489,
+        "lon": 13.3412971
+      }
+    },
+    "PrincipalProgramManager": {
+      "id": 29046450,
+      "name": "PrincipalProgramManager",
+      "label": "Principal Program Manager",
+      "position": {
+        "lat": 52.5058669,
+        "lon": 13.3330236
+      }
+    }
+  },
+
+  "lines": [
+    {
+      "name": "U1",
+      "label": "U1",
+      "color": "#008200",
+      "shiftCoords": [0, 0],
+      "nodes": [
+        {
+          "coords": [-86, -10],
+          "name": "ProgramManagement",
+          "labelPos": "NE",
+          "labelBold": true,
+          "labelAngle": -45,
+          "lineLabel": true,
+          "lineLabelPos": "E",
+          "lineLabelShiftX": 1,
+          "lineLabelShiftY": 1.6
+        },
+        {
+          "coords": [-46, -10]
+        },
+        {
+          "coords": [-8, -60]
+        },
+        {
+          "coords": [-8, -60],
+          "labelShiftCoords": [-1, 0]
+        },
+        {
+          "coords": [0, -65]
+        },
+
+        {
+          "coords": [0, -65],
+          "labelShiftCoords": [-1, 0]
+        },
+        {
+          "coords": [25, -65],
+          "name": "ProgramManager",
+          "labelPos": "NE",
+          "labelAngle": -45
+        },        {
+          "coords": [50, -65],
+          "name": "SrProgramManager",
+          "labelPos": "NE",
+          "labelAngle": -45
+        },        {
+          "coords": [75, -65],
+          "name": "PrincipalProgramManager",
+          "labelPos": "NE",
+          "labelAngle": -45
+        },
+        {
+          "coords": [75, -65],
+          "labelShiftCoords": [-1, 0]
+        }
+      ]
+    },
+    {
+      "name": "U3",
+      "label": "U3",
+      "color": "#008280",
+      "shiftCoords": [0, 0],
+      "nodes": [
+        {
+          "coords": [-86, -75],
+          "name": "SDM",
+          "labelPos": "NE",
+          "labelBold": true,
+          "labelShiftCoords": [-0.5, 0],
+          "lineLabel": true,
+          "lineLabelPos": "E",
+          "lineLabelShiftX": 1,
+          "lineLabelShiftY": 1.6,
+          "labelAngle": -45
+        },
+        {
+          "coords": [25, -17],
+          "name": "ServiceDeliveryManager",
+          "labelPos": "NE",
+          "labelAngle": -45
+        },
+        {
+          "coords": [25, -17]
+        },
+        {
+          "coords": [25, -17]
+        },
+        {
+          "coords": [50, -17],
+          "name": "SeniorSDM",
+          "labelPos": "NE",
+          "labelAngle": -45,
+          "labelShiftCoords": [1, 1]
+        },
+        {
+          "coords": [75, -17],
+          "name": "PrincipalSDM",
+          "labelPos": "NE",
+          "labelAngle": -45,
+          "labelShiftCoords": [1, 1]
+        },
+        {
+          "coords": [75, -17]
+        },
+        {
+          "coords": [100, -17],
+          "name": "SeniorPrincipalSDM",
+          "labelPos": "NE",
+          "labelAngle": -45,
+          "labelShiftCoords": [1, 1]
+        },
+        {
+          "coords": [100, -17]
+        }
+      ]
+    },
+    {
+      "name": "U2",
+      "label": "U2",
+      "color": "#000099",
+      "shiftCoords": [0, 0],
+      "nodes": [
+        {
+          "coords": [-86, -41],
+          "name": "Engineering",
+          "labelPos": "NE",
+          "labelBold": true,
+          "labelAngle": -45,
+          "lineLabel": true,
+          "lineLabelPos": "S",
+          "lineLabelShiftX": -2,
+          "lineLabelShiftY": 0
+        },
+        {
+          "coords": [-75, -41],
+          "name": "GraduateEngineer",
+          "labelPos": "NE",
+          "labelAngle": -45
+        },
+        {
+          "coords": [-65, -41],
+          "name": "PSEngineerI",
+          "labelPos": "NE",
+          "labelAngle": -45
+        },
+        {
+          "coords": [-55, -41],
+          "name": "PSEngineerII",
+          "labelPos": "NE",
+          "labelAngle": -45
+        },
+        {
+          "coords": [-45, -41],
+          "name": "PSEngineerIII",
+          "labelPos": "NE",
+          "labelAngle": -45
+        },
+        {
+          "coords": [-22, -41],
+          "name": "SeniorEngineer",
+          "labelPos": "NE",
+          "labelShiftCoords": [1, 1],
+          "labelAngle": -45
+        },
+        {
+          "coords": [25, -41],
+          "name": "PrincipalEngineer",
+          "labelPos": "NE",
+          "labelAngle": -45,
+          "labelShiftCoords": [0, 0]
+        },
+        {
+          "coords": [50, -41],
+          "name": "SNYPRArchitect",
+          "labelPos": "NE",
+          "labelAngle": -45
+        },
+        {
+          "coords": [75, -41],
+          "name": "SeniorArchitect",
+          "labelPos": "NE",
+          "labelAngle": -45
+        },
+        {
+          "coords": [100, -41],
+          "name": "PrincipalArchitect",
+          "labelPos": "NE",
+          "labelAngle": -45,
+          "labelShiftCoords": [0, 0.5]
+        }
+      ]
+    },
+    {
+      "name": "U7",
+      "label": "U7",
+      "color": "#00cfcd",
+      "shiftCoords": [0, 0],
+      "nodes": [
+        {
+          "coords": [-22, -6],
+          "name": "CyberFusion",
+          "labelPos": "NE",
+          "labelBold": true,
+          "labelAngle":-45,
+          "lineLabel": true,
+          "lineLabelPos": "S",
+          "lineLabelShiftX": -2.2,
+          "lineLabelShiftY": 0,
+          "sBahn": true
+        },
+        {
+          "coords": [-22, -41],
+          "name": "SeniorEngineer",
+          "labelPos": "NE",
+          "labelShiftCoords": [1.5, 0],
+          "labelAngle": -45
+        },
+        {
+          "coords": [-22, -64]
+        },
+
+        {
+          "coords": [-4, -90]
+        },
+        {
+          "coords": [-4, -90],
+          "labelShiftCoords": [-1, 0]
+        },
+        {
+          "coords": [25, -90],
+          "name": "CFConsultant",
+          "labelPos": "NE",
+          "labelShiftCoords": [1, 1],
+          "labelAngle": -45
+        },
+        {
+          "coords": [50, -90],
+          "name": "SrCFConsultant",
+          "labelPos": "NE",
+          "labelShiftCoords": [1, 1],
+          "labelAngle": -45
+        },
+        {
+          "coords": [75, -90],
+          "name": "PrincipalCFConsultant",
+          "labelPos": "NE",
+          "labelShiftCoords": [1, 1],
+          "labelAngle": -45
+        },
+        {
+          "coords": [100, -90],
+          "name": "SrPrincipalCFConsultant",
+          "labelPos": "NE",
+          "labelShiftCoords": [1, 1],
+          "labelAngle": -45
+        },
+        {
+          "coords": [100, -90]
+        }
+      ]
+    }
+  ]
+}
